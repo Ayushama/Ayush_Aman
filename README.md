@@ -89,9 +89,11 @@ Python + Power BI project measuring ROI, CTR, conversions, and campaign performa
 
 ---
 ✨ *Exploring data, one dataset at a time…*  
-----
-✨ Thanks a lot for stopping by my profile!  
-I’d love to connect, share ideas, and discuss all things data 📊   
 
-— *Ayush Aman*
+<p align="center">
+  Thanks a lot for stopping by my profile! 
+I’d love to connect, share ideas, and discuss all things data 📊  
+
+  — *Ayush Aman*
+</p>
 
