@@ -55,14 +55,14 @@ I’m a **Recruitment & Marketing professional transitioning into Data Analytics
 
 ## 📂 Featured Projects  
 
-🔹 **[Check My Flight – Flight Pricing Dashboard & Forecasting](https://github.com/Ayushama/AeroDataVisuals)**  
-Interactive Tableau dashboards analyzing fare trends & forecasting future prices.  
-
 🔹 **[McDonald’s Menu Nutritional Analysis](https://github.com/Ayushama/McDonalds_Menu_Nutritional_Analysis)**  
 Python-based EDA highlighting healthy vs. unhealthy food choices with visualizations.  
 
-🔹 **[Hiring Data Analysis Dashboard](https://github.com/Ayushama/McDonalds_Menu_Nutritional_Analysis)**  
+🔹 **[Hiring Data Analysis Dashboard](https://github.com/Ayushama/Hiring-Data-Analysis-Dashboard)**  
 Power BI dashboard analyzing recruitment efficiency with KPIs & funnel visuals.  
+
+🔹 **[Check My Flight – Flight Pricing Dashboard & Forecasting](https://github.com/Ayushama/AeroDataVisuals)**  
+Interactive Tableau dashboards analyzing fare trends & forecasting future prices.  
 
 🔹 **[Digital Marketing Campaign Analysis](https://github.com/Ayushama/Digital-Marketing-Campaign-Analysis)**  
 Python + Power BI project measuring ROI, CTR, conversions, and campaign performance.  
