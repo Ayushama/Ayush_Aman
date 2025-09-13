@@ -49,7 +49,9 @@ I’m a **Recruitment & Marketing professional transitioning into Data Analytics
 
 ## 📂 Projects
 
-🔹 **GitHub Portfolio:** [https://github.com/Ayushama](https://github.com/Ayushama)
+🔹 `GitHub Portfolio Preview` 
+
+[GitHub Portfolio](https://github.com/Ayushama)
 
 ---
 
