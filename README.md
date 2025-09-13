@@ -78,6 +78,6 @@ I’m a **Recruitment & Marketing professional transitioning into Data Analytics
   Thanks a lot for stopping by my profile! 
 I’d love to connect, share ideas, and discuss all things data 📊  
 
-  — *Ayush Aman*
+  — *[Ayush Aman](https://www.linkedin.com/in/ayush-aman-039817161)*
 </p>
 
